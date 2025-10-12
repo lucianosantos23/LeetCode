@@ -43,6 +43,12 @@ Os problemas são organizados numericamente conforme o índice do LeetCode:
 | `problem4` | Median of Two Sorted Arrays | 
 | ... | ... | 
 
+📌 **Observações:**
+
+- As soluções em **C++** ficam na pasta `c++`.
+- Os códigos em **Java** seguem a estrutura padrão **Maven**.
+- A pasta `tentados` contém problemas em desenvolvimento.
+
 ---
 
 ## 🔄 Atualizações
